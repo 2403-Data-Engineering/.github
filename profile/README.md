@@ -1,5 +1,6 @@
 # TRNG-2403 - Data Engineering & Visualization
 ## Welcome to Revature!
+Find notes and other training content [here](https://github.com/2403-Data-Engineering/Notes-Content)!
 ### Tentative Daily Schedule (All times in EST)
 This is the basic schedule we will be following. Some days there may be more lecture, other days more unstructured time. We will also have various other appointments throughout training.
 | Time | Activity | Description |
