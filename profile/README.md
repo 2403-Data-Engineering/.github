@@ -10,6 +10,8 @@ This is the basic schedule we will be following. Some days there may be more lec
 | 1:00 PM – 2:00 PM | Lecture | Wrap up remaining lecture |
 | 2:00 PM – 5:00 PM | Unstructured Time | Projects, assignments, exercises, & self-study |
 
+### Weekly Plan
+We will generally follow this plan. Things will certainly get moved around as we go.
  - Week 1: Orientation, Agile, Git, & Python
  - Week 2: Persistence with MySQL & MongoDB
  - Week 3: GraphDB, VectorDB, Intro to Big Data
