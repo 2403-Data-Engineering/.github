@@ -21,3 +21,20 @@ We will generally follow this plan. Things will certainly get moved around as we
  - Week 6: Scala & Streaming Data
  - Week 7: Kafka, Spark Streaming, ADF
  - Week 8: Final week, AI & ML Fundamentals
+
+## QC Schedule
+| Competency | Date |
+|---|---|
+| **Audits** | |
+| Python/SQL/NoSQL (2 Weeks) | 15th April, Wednesday |
+| Graph DB & Vector DB / Data and Cloud Fundamentals (1 Week) | 21st April, Tuesday |
+| Power BI / PySpark (2 Weeks) | 4th May, Monday |
+| Scala / Kafka & Spark Streaming / AI & ML (3 Weeks) | 20th May, Wednesday |
+| **Competency Exams/Quizzes** | |
+| Python/SQL/NoSQL | 15th April, Wednesday |
+| Graph DB & Vector DB / Data and Cloud Fundamentals | 21st April, Tuesday |
+| Power BI / PySpark | 4th May, Monday |
+| Scala / Kafka & Spark Streaming / AI & ML | 20th May, Wednesday |
+| **Practical Challenges** | |
+| SQL Level 1 Coding Challenge | 8th–10th April (Wed, Thurs, Fri) |
+| SQL Level 2 Coding Challenge | 13th–14th April (Mon, Tues) |
