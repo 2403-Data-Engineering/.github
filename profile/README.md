@@ -1,6 +1,28 @@
 # TRNG-2403 - Data Engineering & Visualization
 ## Welcome to Revature!
 Find notes and other training content [here](https://github.com/2403-Data-Engineering/Notes-Content)!
+
+## P0 Presentations Firday!
+ - 5 minute presentation - order will be randomized - let me know if you want to go early, first come first serve.
+ - with a demo of the program completing user stories
+ - and a discussion of the project - the journey not the deliverable
+   - Ways I was challenged
+   - Challenges I overcame or failed
+   - thins I learned
+   - Anything interesting pertaining to the last 2 weeks
+ - PowerPoint or Prezi or something is not a bad idea but not required
+ - do not do a code walkthrough - but do discuss anything you find particularly: challenging, interesting
+ - Q/A
+
+
+
+
+Everything should be pushed up to your GH repo by EOB tomorrow
+
+
+
+
+
 ### Tentative Daily Schedule (All times in EST)
 This is the basic schedule we will be following. Some days there may be more lecture, other days more unstructured time. We will also have various other appointments throughout training.
 | Time | Activity | Description |
